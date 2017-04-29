@@ -22,27 +22,39 @@ Install sublime-vmd using package control
 
 ## Manual setup
 
+- Linux
+
+```
+$ cd $HOME/.config/sublime-text-3/Packages/
+$ git clone git@github.com:rajikaimal/sublime-vmd.git vmd
+```
+
 - MacOS
 
 ```
 $ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
-$ git clone git@github.com:rajikaimal/sublime-vmd.git
-```
-
-- Linux
-
-```
-$ cd $HOME/.config/sublime-text-3/Packages/vmd
-$ git clone git@github.com:rajikaimal/sublime-vmd.git
+$ git clone git@github.com:rajikaimal/sublime-vmd.git vmd
 ```
 
 - Windows
 
 ```
-$ cd C:\Program Files\Sublime Text 3\Packages
-$ git clone git@github.com:rajikaimal/sublime-vmd.git
+$ cd C:\Program Files\Sublime Text 3\Packages\
+$ git clone git@github.com:rajikaimal/sublime-vmd.git vmd
 ```
 
 ## Usage
 
-> WIP
+### Command Palette
+
+- Open markdown file: `vmd: Open file in vmd`
+
+### Hotkeys
+
+- Linux: <kbd>ctrl+alt+v</kbd>
+- Windows: <kbd>ctrl+alt+v</kbd>
+- MacOS: <kbd>super+alt+v</kbd>
+
+## License
+
+MIT © [Rajika Imal](https://rajikaimal.github.io)
