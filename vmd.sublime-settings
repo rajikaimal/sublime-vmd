@@ -1,0 +1,6 @@
+{
+  "extensions": ["md"],
+  "bin": {
+  	"linux": "/usr/bin/vmd"
+  }
+}

@@ -1,0 +1,20 @@
+[
+	{
+		"caption": "vmd: Open file in vmd",
+		"command": "vmd"
+	},
+	{
+		"caption": "Preferences: vmd settings - Default",
+		"command": "vmd",
+		"args": {
+			"file": "${packages}/vmd/vmd.sublime-settings"
+		}
+	},
+	{
+		"caption": "Preferences: vmd settings - User",
+		"command": "vmd",
+		"args": {
+			"file": "${packages}/User/vmd.sublime-settings"
+		}
+	}
+]
