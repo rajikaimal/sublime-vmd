@@ -1,6 +1,6 @@
 # sublime-vmd
 
-:fire: Sublime Text 3 plugin for vmd
+:snowflake: Sublime Text 3 plugin for vmd
 
 ## Installation
 
